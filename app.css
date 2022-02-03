@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#BPKIMG {
+ max-width: 50%;
+ height: auto;
+}
+
+#note {
+	color: red;
+	font-size: 20px;
+}
+
+#AGRT {
+	color: cyan;
+	padding-left: 20px;
+}
+.modal-body {
+	max-width: 10%;
+	height: auto;
+}
